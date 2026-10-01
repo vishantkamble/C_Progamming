@@ -4,7 +4,7 @@ int main()
 {
     float side; float area;
 
-    printf("Enter Side: ");
+    printf("Enter Side Of Square: ");
     scanf("%f", &side);
 
     area = side * side;
