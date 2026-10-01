@@ -4,12 +4,12 @@ int main()
 {
     float length; float breath; float area;
 
-    printf("Enter Length & Breath:\n");
+    printf("Enter Length & Breath Rectangle:\n");
 
-    printf("Enter Length:");
+    printf("Enter Length Of Rectangle:");
     scanf("%f", &length);
 
-    printf("Enter Breath:");
+    printf("Enter Breath Of Rectangle:");
     scanf("%f", &breath);
 
     area = length * breath;
