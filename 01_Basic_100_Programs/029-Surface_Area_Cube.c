@@ -4,7 +4,7 @@ int main()
 {
     float side; float area;
 
-    printf("Enter Surface Side Of Cube: ");
+    printf("Enter Side Of Cube: ");
     scanf("%f", &side);
 
     area = 6 * (side * side);
