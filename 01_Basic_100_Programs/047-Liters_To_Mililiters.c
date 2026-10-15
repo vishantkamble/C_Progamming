@@ -4,7 +4,7 @@ int main()
 {
     float liters; float mililiters;
 
-    printf("Enter Volume Liters: ");
+    printf("Enter Volume in Liters: ");
     scanf("%f", &liters);
 
     mililiters = liters * 1000;
