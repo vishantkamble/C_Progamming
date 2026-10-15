@@ -12,7 +12,7 @@ int main()
     printf("Enter Value Of b: ");
     scanf("%d", &b);
 
-    result = a < b;
+    result = a > b;
 
     printf("Result = %d\n", result);
     
