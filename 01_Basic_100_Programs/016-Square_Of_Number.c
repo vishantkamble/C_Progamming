@@ -2,14 +2,14 @@
 
 int main()
 {
-    int number;
+    int number; int square;
 
     printf("Enter Number: ");
     scanf("%d", &number);
 
-    number = number * number;
+    square = number * number;
 
-    printf("Square Of Number = %d\n",number);
+    printf("Square Of Number = %d\n",square);
     
     return 0;
 }
