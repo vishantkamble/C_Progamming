@@ -4,7 +4,7 @@ int main()
 {
     float a; float b; float division;
 
-    printf("Enter Two Number:\n");
+    printf("Enter Two Numbers:\n");
 
     printf("Enter First Number:");
     scanf("%f", &a);
